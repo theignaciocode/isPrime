@@ -5,7 +5,7 @@ def isPrime(number: int) -> bool:
     return True
 
 
-print(isPrime(5))   #False
-print(isPrime(20))  #True
+print(isPrime(5))   #True
+print(isPrime(20))  #False 
 
 # developer: theIGNACIOcode
